@@ -1,4 +1,14 @@
+<p align="center" class="mb-2">
+<img class="not-gallery-item" height="48" src="https://ppoffice.github.io/hexo-theme-icarus/img/logo.svg">
+<br> A simple, delicate, and modern theme for the static site generator Hexo.
+<br>
+<a href="https://ppoffice.github.io/hexo-theme-icarus/">Preview</a> |
+<a href="https://ppoffice.github.io/hexo-theme-icarus/categories/">Documentation</a> |
+<a href="https://gitter.im/hexo-theme-icarus/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">Chat on Gitter</a>
+<br>
+</p>
 
+![](https://ppoffice.github.io/hexo-theme-icarus/gallery/preview.png?1 "Icarus Preview")
 
 ## :cd: Installation
 
