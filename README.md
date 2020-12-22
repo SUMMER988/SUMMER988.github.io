@@ -8,11 +8,7 @@
 <br>
 </p>
 
-<<<<<<< HEAD
-
-=======
 ![](https://ppoffice.github.io/hexo-theme-icarus/gallery/preview.png?1 "Icarus Preview")
->>>>>>> parent of 329278d... Update README.md
 
 ## :cd: Installation
 
